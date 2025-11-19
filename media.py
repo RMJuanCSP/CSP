@@ -5,5 +5,5 @@ array=np.array([1,2,3,4,5])
 media=np.mean(array) #Cálculo da media
 print(f"Media do array: {media}")
 print("Adiós mundo")
-print("Proba modificación arquivo e subida a Github")
+print("Esta é unha proba de modificación do arquivo e subida a Github")
 
