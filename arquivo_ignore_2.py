@@ -1,0 +1,1 @@
+print("gitignore 2")
